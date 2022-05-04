@@ -65,7 +65,6 @@ def play():
                 liste[i][j] = 0
 
 
-
 # ----- PYGAME METHODS ------
 
 #checks if a certain rect (given as parameter) is already in rects
